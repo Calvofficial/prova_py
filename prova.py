@@ -13,8 +13,3 @@ if a > b:
     print("a è maggiore di b")
 else:
     print("b è maggiore di a")
-
-# %%
-
-print("hello")
-
