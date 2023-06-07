@@ -9,7 +9,7 @@ print('b =',b)
 print('a+b =',a+b)
 print('a*b =',a*b)
 
-if a > b:
-    print("a è maggiore di b")
-else:
-    print("b è maggiore di a")
+#if a > b:
+    #print("a è maggiore di b")
+#else:
+    #print("b è maggiore di a")
